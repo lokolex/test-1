@@ -1,0 +1,256 @@
+{
+  "collection": [
+    {
+      "id": 1,
+      "img": "https://w-dog.ru/wallpapers/1/80/531686645430000/art-kosmos-3d.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 2,
+      "img": "https://www.ejin.ru/wp-content/uploads/2018/10/41686792_images_4684452440.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 3,
+      "img": "https://gas-kvas.com/uploads/posts/2023-02/1675435060_gas-kvas-com-p-kosmos-fonovii-risunok-26.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 4,
+      "img": "https://catherineasquithgallery.com/uploads/posts/2021-02/1613224204_78-p-fon-sinii-kosmos-107.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 5,
+      "img": "https://w.forfun.com/fetch/0b/0bf718f010dc198fe88ef3f614b4e659.jpeg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 6,
+      "img": "https://catherineasquithgallery.com/uploads/posts/2021-02/1613438932_103-p-fon-dlya-prezentatsii-pro-kosmos-135.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 7,
+      "img": "https://w-dog.ru/wallpapers/1/80/531686645430000/art-kosmos-3d.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 8,
+      "img": "https://www.ejin.ru/wp-content/uploads/2018/10/41686792_images_4684452440.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 9,
+      "img": "https://gas-kvas.com/uploads/posts/2023-02/1675435060_gas-kvas-com-p-kosmos-fonovii-risunok-26.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 10,
+      "img": "https://catherineasquithgallery.com/uploads/posts/2021-02/1613224204_78-p-fon-sinii-kosmos-107.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 11,
+      "img": "https://w-dog.ru/wallpapers/1/80/531686645430000/art-kosmos-3d.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 12,
+      "img": "https://www.ejin.ru/wp-content/uploads/2018/10/41686792_images_4684452440.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 13,
+      "img": "https://gas-kvas.com/uploads/posts/2023-02/1675435060_gas-kvas-com-p-kosmos-fonovii-risunok-26.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 14,
+      "img": "https://catherineasquithgallery.com/uploads/posts/2021-02/1613224204_78-p-fon-sinii-kosmos-107.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 15,
+      "img": "https://w.forfun.com/fetch/0b/0bf718f010dc198fe88ef3f614b4e659.jpeg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 16,
+      "img": "https://catherineasquithgallery.com/uploads/posts/2021-02/1613438932_103-p-fon-dlya-prezentatsii-pro-kosmos-135.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 17,
+      "img": "https://w-dog.ru/wallpapers/1/80/531686645430000/art-kosmos-3d.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 18,
+      "img": "https://www.ejin.ru/wp-content/uploads/2018/10/41686792_images_4684452440.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 19,
+      "img": "https://gas-kvas.com/uploads/posts/2023-02/1675435060_gas-kvas-com-p-kosmos-fonovii-risunok-26.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    },
+    {
+      "id": 20,
+      "img": "https://catherineasquithgallery.com/uploads/posts/2021-02/1613224204_78-p-fon-sinii-kosmos-107.jpg",
+      "title": "Sun-Glass",
+      "subtitle": "Current bid",
+      "rating": 1.75
+    }
+  ],
+  "activity": [
+    {
+      "id": 1,
+      "img": "https://w-dog.ru/wallpapers/1/80/531686645430000/art-kosmos-3d.jpg",
+      "title": "NeuVey",
+      "user": "JenifferS",
+      "floorPrice": 16.4,
+      "price": "19K",
+      "quantity": "14.9K",
+      "traded": 26.4,
+      "time": "6 Minutes ago"
+    },
+    {
+      "id": 2,
+      "img": "https://www.ejin.ru/wp-content/uploads/2018/10/41686792_images_4684452440.jpg",
+      "title": "NeuVey",
+      "user": "JenifferS",
+      "floorPrice": 16.4,
+      "price": "19K",
+      "quantity": "14.9K",
+      "traded": 26.4,
+      "time": "6 Minutes ago"
+    },
+    {
+      "id": 3,
+      "img": "https://w-dog.ru/wallpapers/1/80/531686645430000/art-kosmos-3d.jpg",
+      "title": "NeuVey",
+      "user": "JenifferS",
+      "floorPrice": 16.4,
+      "price": "19K",
+      "quantity": "14.9K",
+      "traded": 26.4,
+      "time": "6 Minutes ago"
+    },
+    {
+      "id": 4,
+      "img": "https://www.ejin.ru/wp-content/uploads/2018/10/41686792_images_4684452440.jpg",
+      "title": "NeuVey",
+      "user": "JenifferS",
+      "floorPrice": 16.4,
+      "price": "19K",
+      "quantity": "14.9K",
+      "traded": 26.4,
+      "time": "6 Minutes ago"
+    },
+    {
+      "id": 5,
+      "img": "https://w-dog.ru/wallpapers/1/80/531686645430000/art-kosmos-3d.jpg",
+      "title": "NeuVey",
+      "user": "JenifferS",
+      "floorPrice": 16.4,
+      "price": "19K",
+      "quantity": "14.9K",
+      "traded": 26.4,
+      "time": "6 Minutes ago"
+    },
+    {
+      "id": 6,
+      "img": "https://www.ejin.ru/wp-content/uploads/2018/10/41686792_images_4684452440.jpg",
+      "title": "NeuVey",
+      "user": "JenifferS",
+      "floorPrice": 16.4,
+      "price": "19K",
+      "quantity": "14.9K",
+      "traded": 26.4,
+      "time": "6 Minutes ago"
+    },
+    {
+      "id": 7,
+      "img": "https://w-dog.ru/wallpapers/1/80/531686645430000/art-kosmos-3d.jpg",
+      "title": "NeuVey",
+      "user": "JenifferS",
+      "floorPrice": 16.4,
+      "price": "19K",
+      "quantity": "14.9K",
+      "traded": 26.4,
+      "time": "6 Minutes ago"
+    },
+    {
+      "id": 8,
+      "img": "https://www.ejin.ru/wp-content/uploads/2018/10/41686792_images_4684452440.jpg",
+      "title": "NeuVey",
+      "user": "JenifferS",
+      "floorPrice": 16.4,
+      "price": "19K",
+      "quantity": "14.9K",
+      "traded": 26.4,
+      "time": "6 Minutes ago"
+    },
+    {
+      "id": 9,
+      "img": "https://w-dog.ru/wallpapers/1/80/531686645430000/art-kosmos-3d.jpg",
+      "title": "NeuVey",
+      "user": "JenifferS",
+      "floorPrice": 16.4,
+      "price": "19K",
+      "quantity": "14.9K",
+      "traded": 26.4,
+      "time": "6 Minutes ago"
+    },
+    {
+      "id": 10,
+      "img": "https://www.ejin.ru/wp-content/uploads/2018/10/41686792_images_4684452440.jpg",
+      "title": "NeuVey",
+      "user": "JenifferS",
+      "floorPrice": 16.4,
+      "price": "19K",
+      "quantity": "14.9K",
+      "traded": 26.4,
+      "time": "6 Minutes ago"
+    }
+  ]
+}

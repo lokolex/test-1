@@ -1,0 +1,28 @@
+.collection {
+  position: relative;
+  margin-top: 61px;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 29px;
+  row-gap: 45.57px;
+}
+
+.loader {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+@media (max-width: 1024px) {
+  .collection {
+    flex-wrap: wrap;
+    column-gap: 20.6px;
+    row-gap: 32.41px;
+  }
+}
+
+@media (max-width: 778px) {
+  .collection {
+    margin-top: 55.06px;
+  }
+}

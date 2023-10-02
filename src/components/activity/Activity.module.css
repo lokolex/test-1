@@ -1,0 +1,49 @@
+.content {
+  position: relative;
+  margin-top: 61px;
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 29px;
+  row-gap: 45.57px;
+}
+
+.upper {
+  width: 100%;
+  display: flex;
+  gap: 18.22px;
+  margin-top: 64px;
+}
+
+.activity {
+  margin-top: 13.43px;
+  width: 100%;
+}
+
+.loader {
+  width: 100%;
+  text-align: center;
+}
+
+@media (max-width: 1024px) {
+  .content {
+    flex-wrap: wrap;
+    column-gap: 20.6px;
+    row-gap: 32.41px;
+  }
+
+  .upper {
+    gap: 12.96px;
+    margin-top: 27px;
+  }
+}
+
+@media (max-width: 778px) {
+  .content {
+    margin-top: 55.06px;
+  }
+
+  .upper {
+    gap: 12.96px;
+    margin-top: 0;
+  }
+}

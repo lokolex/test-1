@@ -1,0 +1,313 @@
+.main img {
+  width: 64.31px;
+  height: 67.95px;
+  border-radius: 12.13px;
+}
+
+.top {
+  display: flex;
+  justify-content: space-between;
+}
+
+.left {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.title {
+  font-weight: 600;
+  font-size: 17px;
+  line-height: 26.7px;
+}
+
+.user {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 5.68px;
+}
+
+.circle {
+  position: relative;
+  width: 13px;
+  height: 13px;
+  background-color: #0066d4;
+  border-radius: 100%;
+}
+
+.circle::before {
+  content: '';
+  display: block;
+  position: absolute;
+  width: 4px;
+  height: 2px;
+  border-right: 2px solid #fff;
+  border-top: 2px solid #fff;
+  transform: rotate(135deg);
+  top: 0;
+  bottom: 2px;
+  margin: auto;
+  left: 1px;
+  right: 0;
+  border-radius: 1px;
+  z-index: 10;
+}
+
+.user p {
+  font-weight: 400;
+  font-size: 12.08px;
+  line-height: 18.12px;
+}
+
+.right {
+  display: flex;
+  gap: 28.26px;
+}
+
+.info {
+  text-align: right;
+}
+
+.info p {
+  font-weight: 400;
+  font-size: 12.08px;
+  line-height: 18.12px;
+  color: rgba(20, 167, 96, 1);
+}
+
+.info-price img {
+  max-width: 9.55px;
+  max-height: 16.87px;
+}
+
+.info-price span {
+  font-weight: 500;
+  font-size: 16.04px;
+  margin-left: 12px;
+}
+
+.info .subInfo {
+  color: rgba(210, 210, 210, 1);
+}
+
+.select {
+  max-width: 10px;
+  max-height: 5px;
+  cursor: pointer;
+}
+
+.select img {
+  width: 100%;
+  height: 100%;
+}
+
+.divider {
+  height: 1px;
+  width: 98%;
+  margin: 17.5px auto;
+  background-color: rgba(210, 210, 210, 1);
+}
+
+.bottom {
+  width: 98%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bottomItem {
+  text-align: center;
+}
+
+.bottomTitle {
+  font-size: 11px;
+  font-weight: 400;
+  line-height: 14px;
+  color: rgba(130, 130, 130, 1);
+}
+
+.bottomData {
+  font-size: 15.74px;
+  font-weight: 500;
+  line-height: 23px;
+}
+
+.dataWrap {
+  display: flex;
+  align-items: center;
+  gap: 4.65px;
+}
+
+.dataWrap img {
+  max-width: 9.55px;
+  max-height: 16.87px;
+}
+
+@media (max-width: 1024px) {
+  .main img {
+    width: 45.74px;
+    height: 48.33px;
+    border-radius: 8.63px;
+  }
+
+  .left {
+    gap: 8.63px;
+  }
+
+  .title {
+    font-size: 12.08px;
+    line-height: 18.99px;
+  }
+
+  .user {
+    gap: 4px;
+  }
+
+  .circle {
+    width: 9.54px;
+    height: 9.54px;
+  }
+
+  .circle::before {
+    width: 4px;
+    height: 2px;
+    border-right: 2px solid #fff;
+    border-top: 2px solid #fff;
+    top: 0;
+    bottom: 1px;
+    left: 0;
+  }
+
+  .user p {
+    font-size: 8.59px;
+    line-height: 12.89px;
+  }
+
+  .right {
+    gap: 20px;
+  }
+
+  .info p {
+    font-size: 8.59px;
+    line-height: 12.89px;
+  }
+
+  .info-price img {
+    max-width: 7.15px;
+    max-height: 12px;
+  }
+
+  .info-price span {
+    font-size: 11.41px;
+    margin-left: 6px;
+  }
+
+  .select img {
+    max-width: 6.91px;
+    max-height: 3.45px;
+  }
+
+  .bottomTitle {
+    font-size: 8.09px;
+    line-height: 9.95px;
+  }
+
+  .bottomData {
+    font-size: 11.19px;
+    line-height: 16.17px;
+  }
+
+  .dataWrap {
+    gap: 3.11px;
+  }
+
+  .dataWrap img {
+    max-width: 8.09px;
+    max-height: 11.2px;
+  }
+}
+
+@media (max-width: 778px) {
+  .main img {
+    width: 51.05px;
+    height: 53.94px;
+    border-radius: 9.63px;
+  }
+
+  .left {
+    gap: 10.63px;
+  }
+
+  .title {
+    font-size: 13.48px;
+    line-height: 21.19px;
+  }
+
+  .user {
+    gap: 4.78px;
+  }
+
+  .circle {
+    width: 9.54px;
+    height: 9.54px;
+  }
+
+  .circle::before {
+    width: 4px;
+    height: 2px;
+    border-right: 2px solid #fff;
+    border-top: 2px solid #fff;
+    top: 0;
+    bottom: 1px;
+    left: 0;
+  }
+
+  .user p {
+    font-size: 9.59px;
+    line-height: 14.38px;
+  }
+
+  .right {
+    gap: 18.43px;
+  }
+
+  .info p {
+    font-size: 9.59px;
+    line-height: 14.38px;
+  }
+
+  .info-price img {
+    max-width: 7.98px;
+    max-height: 13.39px;
+  }
+
+  .info-price span {
+    font-size: 12.73px;
+    margin-left: 6px;
+  }
+
+  .select img {
+    max-width: 7.71px;
+    max-height: 3.85px;
+  }
+
+  .bottomTitle {
+    font-size: 9.12px;
+    line-height: 11.22px;
+  }
+
+  .bottomData {
+    font-size: 12.62px;
+    line-height: 18.24px;
+  }
+
+  .dataWrap {
+    gap: 3.73px;
+  }
+
+  .dataWrap img {
+    max-width: 8.66px;
+    max-height: 12.62px;
+  }
+}

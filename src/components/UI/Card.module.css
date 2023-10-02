@@ -1,0 +1,39 @@
+.short {
+  border-radius: 17.07px;
+  background-color: #fff;
+  box-shadow: 0px 0px 20px 1px rgba(199, 199, 199, 0.6);
+  padding: 10.26px 10.26px 15px 10.26px;
+}
+
+.large {
+  border-radius: 12.13px;
+  background-color: #fff;
+  box-shadow: 0px 0px 20px 1px rgba(199, 199, 199, 0.6);
+  padding: 15px 20px 20px 15px;
+  margin-top: 42px;
+}
+
+.large:first-child {
+  margin-top: 0;
+}
+
+@media (max-width: 1024px) {
+  .short {
+    border-radius: 12.14px;
+    padding: 7.3px 7.3px 10.6px 7.3px;
+  }
+
+  .large {
+    border-radius: 8.63px;
+    padding: 10.92px 16.33px 13.9px 10.36px;
+    margin-top: 29.88px;
+  }
+}
+
+@media (max-width: 778px) {
+  .large {
+    border-radius: 9.63px;
+    padding: 12.4px 16.33px 20px 11.56px;
+    margin-top: 20px;
+  }
+}
